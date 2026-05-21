@@ -1,0 +1,3 @@
+cryptography>=42.0.0
+pyshamir>=1.0.4
+

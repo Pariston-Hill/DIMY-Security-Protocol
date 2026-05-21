@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Local tooling
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated logs and local data
+*.log
+*.tmp
+
+# Large or private local artifacts
+*.docx
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.mkv
+
